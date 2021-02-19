@@ -37,7 +37,7 @@ class App extends Component {
                 <Ingame theme={this.state.theme} username={this.state.username}/>
               </Route>
 
-              <Route path="/">
+              <Route path="/" exact>
                 <Menu setName={this.state.setName.bind(this)} setTheme={this.state.setTheme.bind(this)} />
               </Route>
 

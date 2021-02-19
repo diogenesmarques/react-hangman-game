@@ -15,13 +15,13 @@ export default class Menu extends Component {
 
     }
 
-    handleUsernameChange = (event) => {
+    handleUsernameChange(event){
         this.setState({
             username: event.target.value
         })
     }
 
-    handleThemeChange = (event) =>{
+    handleThemeChange(event){
         this.setState({
             theme: event.target.value
         })
