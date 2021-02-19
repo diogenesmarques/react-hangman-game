@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "soccer",
+        "description":"European Soccer Teams",
+        "words":["Barcelona", "Real Madrid", "Tottenham", "Bayern Munchen",
+             "Borussia Dortmund", "PSG"]
+    },
+
+    {
+        "id": 1,
+        "name": "sa-soccer",
+        "description": "South American Soccer Teams",
+        "words":["Boca Juniors", "River Plate", "Racing", "Nacional", "Penarol",
+            "Independiente", "Gremio", "Internacional", "Corinthians" , "Palmeiras",
+            "Sao Paulo", "Santos", "Cruzeiro", "Atletico Mineiro", "Juventude,",
+            "Flamengo", "Vasco da Gama", "Avai", "Figueirense", "Chapecoense"]
+    },
+
+    {
+        "id": 2,
+        "name": "bands",
+        "description": "Rock Bands",
+        "words":["Metallica", "Black Sabbath", "Megadeth", "Pearl Jam", "Nirvana", "Silverchair",
+            "Soundgarden", "Guns n Roses", "Motorhead", "The Beatles", "The Strokes", "Pantera",
+            "Anthrax", "Green Day", "Slayer", "AC DC", "Red Hot Chilli Peppers", "System of A Down"]
+    },
+
+    {
+        "id": 3,
+        "name": "video-games",
+        "description": "Video-games",
+        "words":["Fortnite", "Counter Strike", "FIFA", "Minecraft", "League of Legends",
+            "Rainbow Six Siege", "Valorant"]
+    },
+
+    {
+        "id": 4,
+        "name": "esports",
+        "description": "Esports Teams",
+        "words":["MIBR", "Team Liquid", "Team Vitality", "Natus Vincere", "Virtus Pro",
+            "Isurus Gaming", "Immortals", "SK Gaming", "FaZe Clan", "NRG"]
+    }
+]
