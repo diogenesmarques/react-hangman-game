@@ -1,2 +1,3 @@
-# react-hangman-game
+# ReactJS Hangman Game
+
  Hangman Game created with ReactJS
